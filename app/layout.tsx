@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Briefing de Projeto - Crie seu site dos sonhos",
+  title: "Modaltech - Formulário de criação de site",
   description: "Formulário de briefing para projetos web e e-commerce",
   generator: "v0.app",
 }
